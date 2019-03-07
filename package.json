@@ -6,6 +6,7 @@
     "react-hot-loader": "4.7.2"
   },
   "renovate": {
+    "recreateClosed": true,
     "requiredStatusChecks": null,
     "automerge": true
   }
