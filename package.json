@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "prop-types": "15.7.2",
-    "react-hot-loader": "4.6.3"
+    "react-hot-loader": "4.7.2"
   },
   "renovate": {
     "requiredStatusChecks": null,
