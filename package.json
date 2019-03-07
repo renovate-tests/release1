@@ -3,5 +3,8 @@
     "prop-types": "15.6.2",
     "react-hot-loader": "4.6.3"
   },
-  "renovate": {}
+  "renovate": {
+    "requiredStatusChecks": null,
+    "automerge": true
+  }
 }
